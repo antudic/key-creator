@@ -1,5 +1,6 @@
 # key-creator
-Create ssh keys to use for GitHub deploy keys
+Create ssh keys to use for GitHub deploy keys  
+This project is largely written with the help of ChatGPT
 
 Save to file (key-creator.sh) then run 
 `sudo chmod +x key-creator.sh`
